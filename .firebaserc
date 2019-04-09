@@ -1,6 +1,6 @@
 {
   "projects": {
-    "staging": "xeres-labs",
-    "default": "xeres-labs"
+    "staging": "staging-xereslabs",
+    "default": "staging-xereslabs"
   }
 }
